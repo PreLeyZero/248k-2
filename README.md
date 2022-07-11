@@ -2,10 +2,10 @@
 Mod ideas and development progress on 248ks successor mod.
 
 # Mod Page
-    https://mods.factorio.com/mod/248k
+https://mods.factorio.com/mod/248k
 
 # Discord
-    https://discord.gg/DhPxNAJ3nt
+https://discord.gg/DhPxNAJ3nt
 
 # This Repo
 
