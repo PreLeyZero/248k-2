@@ -56,7 +56,7 @@ Here is a first draft of the minable materials:
     - Natural Gas
 5. **Space Ore**
     - Exotic Matter
-6. **Only byproduct from washing**
+6. **Only as byproduct from washing**
     - Lithium
     - Fluoride
 
