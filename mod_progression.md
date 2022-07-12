@@ -9,9 +9,13 @@ The mod will be structured in Ages similar to 248ks Stages but with more overall
 - Quantum Tech Age
 - Exotic Age
 
+# Difficulty/Level of the Mod
+
+The mod should aim for a difficulty certainly below AngelBobs / pY but above K2, maybe around SE. A long game balanced and themed around the different ages should be the main goal. Byproduct handling will play a big role in the mod however should be done so that it is an reasonable alternative to processing without byproducts, mainly through increased yield/productivity and additional outputs. The chemistry part will add on the vanilla approach with kerosene and other sub oil products as well as with natural gas which behaves similar to oil. In later ages of the mod (about then when fusion is a thing) scaling the factory towards greater outputs should be the goal. This will be supported by different mechanics (not yet certain but f.e.: KI cores, Helium powered beacons, Star engine, high speed trains). How the game is won exactly in the exotic age is not yet certain and will be decided once the other ages are mainly done. 
+
 # Science
 
-Science packs will change from the vanilla ones (logistic, automation, chemical, production, utility and space) to one associated with each age.
+Science packs will change from the vanilla ones (logistic, automation, chemical, production, utility and space) to one associated with each age. Military science may vanish completely and its techs will get sorted into the age progression.
 
 1. Steam Tech
 2. Electricity Tech
