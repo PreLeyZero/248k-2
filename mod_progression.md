@@ -11,7 +11,9 @@ The mod will be structured in Ages similar to 248ks Stages but with more overall
 
 # Difficulty/Level of the Mod
 
-The mod should aim for a difficulty certainly below AngelBobs / pY but above K2, maybe around SE. A long game balanced and themed around the different ages should be the main goal. Byproduct handling will play a big role in the mod however should be done so that it is an reasonable alternative to processing without byproducts, mainly through increased yield/productivity and additional outputs. The chemistry part will add on the vanilla approach with kerosene and other sub oil products as well as with natural gas which behaves similar to oil. In later ages of the mod (about then when fusion is a thing) scaling the factory towards greater outputs should be the goal. This will be supported by different mechanics (not yet certain but f.e.: KI cores, Helium powered beacons, Star engine, high speed trains). How the game is won exactly in the exotic age is not yet certain and will be decided once the other ages are mainly done. 
+The mod should aim for a difficulty certainly below AngelBobs / pY but above K2, maybe around SE. A long game balanced and themed around the different ages should be the main goal. Byproduct handling will play a big role in the mod however should be done so that it is an reasonable alternative to processing without byproducts, mainly through increased yield/productivity and additional outputs. The chemistry part will add on the vanilla approach with kerosene and other sub oil products as well as with natural gas which behaves similar to oil. In later ages of the mod (about then when fusion is a thing) scaling the factory towards greater outputs should be the goal. This will be supported by different mechanics (not yet certain but f.e.: KI cores, Helium powered beacons, Star engine, high speed trains). 
+
+OP items/machines/toys will ofc be also present in the late game as in current 248k. How the game is won exactly in the exotic age is not yet certain and will be decided once the other ages are mainly done. 
 
 # Science
 
