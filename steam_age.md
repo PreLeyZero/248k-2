@@ -4,7 +4,7 @@ Steam age is the first real age of the mod. Main objectives are `automation`, a 
 
 **Deep ores are still not available in this age.**
 
-Using iron and copper ingredients as well as stone from starter age `steam assembler, steam crusher, steam boiler, pipes, fluid tank and belts` can be build. All buildings mainly being based on `iron mechanical parts`.
+Using iron and copper ingredients as well as stone from starter age `steam assembler, steam crusher, steam boiler, pipes, steam inserter, fluid tank and belts` can be build. All buildings mainly being based on `iron mechanical parts`.
 Also a `stone miner` can be build (the one using the old miner graphic), that can mine stone from everywhere on the map. Since `Slag` is still being produced by `poor ore chunk smelting` the player can turn the excess stone into `stone bricks` for road paving.
 
 Using stone and iron **railway tracks** can be build, however without proper signaling yet. A `basic steam locomotive` and a `cargo wagon`, both slow and heavy are available. (probably with wonderful textures from YuokiTani's YIR mod)
