@@ -58,7 +58,7 @@ The `advanced chemistry` part will enable cracking. A new oil refinery will be a
 
 # Early bots
 
-`Batteries` made out of `sulfuric acid` are needed to `basic roboframes`. Roboport and **all** robochests are available. Tier 1 cargo bots start with 10 cargo capacity but are slow af and suffer from small batteries, making them ok for robot based malls but horrible for long/medium range transportation. Tier 1 building bots are faster but still slow. They will have only 1 cargo capacity but in term use less energy making them stay in the air for a longer time with the same battery size.
+`Batteries` made out of `sulfuric acid` are needed for `basic roboframes`. Roboport and **all** robochests are available. Tier 1 cargo bots start with 10 cargo capacity but are slow af and suffer from small batteries, making them ok for robot based malls but horrible for long/medium range transportation. Tier 1 building bots are faster but still slow. They will have only 1 cargo capacity but in term use less energy making them stay in the air for a longer time with the same battery size.
 
 # Diesel Train
 
@@ -124,7 +124,7 @@ flowchart TD
 # Semiconductors
 
 The last part of the electrical age is concentrated on making `semiconductors` to be used for the `computer tech`. Solar panels can be built using semiconductors for power generation. They will be buffed to be a reasonable alternative to nuclear.
-Lithium can be used as to upgrade batteries to `lithium batteries` and craft accumulators. Sand and sulfuric acid will be turned into semiconductors in a `Waver factory` requiring huge amounts of power. Those and red circuits can be crafted into `cpu` items, which are used to make computer tech. `Electronic parts` summarize most electronic non semiconductor items, and will be needed for later module, beacon and overall computer associated crafting. 
+Lithium can also be used for making batteries in an alternative recipe. Sand and sulfuric acid will be turned into semiconductors in a `Waver factory` requiring huge amounts of power. Those and red circuits can be crafted into `cpu` items, which are used to make computer tech. `Electronic parts` summarize most electronic non semiconductor items, and will be needed for later module, beacon and overall computer associated crafting. 
 
 ```mermaid
 flowchart TD
