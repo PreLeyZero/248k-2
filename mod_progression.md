@@ -29,7 +29,7 @@ Science packs will change from the vanilla ones (logistic, automation, chemical,
 
 ```mermaid
   flowchart LR;
-    A(starter Lab) --> |1| B(vanilla Lab) --> |1,2,3| C(T-Lab) --> |3,4,5| D(end game)
+    A(starter Lab) --> |1,2| B(vanilla Lab) --> |2,3,4| C(T-Lab) --> |3,4,5| D(end game)
 ```
 
 # Resources
@@ -53,6 +53,7 @@ Here is a first draft of the minable materials:
     - Copper vein
     - Iron vein
     - Sulfur vein
+    - Uranium vein
     - Titanium
     - Gold
     - Neodymium

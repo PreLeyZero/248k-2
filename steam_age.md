@@ -9,6 +9,8 @@ Also a `stone miner` can be build (the one using the old miner graphic), that ca
 
 Using stone and iron **railway tracks** can be build, however without proper signaling yet. A `basic steam locomotive` and a `cargo wagon`, both slow and heavy are available. (probably with wonderful textures from YuokiTani's YIR mod)
 
+The `engine unit` will be renamed into `steam engine unit` and will be used in most of the steam related machines.
+
 `Steam production` balances this age around `fuel` production. In the middle of this age `steam powered pumpjacks` (if possible with API) can be used to `pump crude oil` and burn it to produce steam in a `fluid boiler`.
 
 ```mermaid
@@ -69,7 +71,7 @@ Cracking is not available in this age. The entire oil processing is not necessar
 
 # Flux Tech (or electricity Tech or so)
 
-Flux tech will be needed for the next age. Crushing stone results in `sand`. `Ceramic` can be produced with steam and stone. In the next age a recipe using `sand` and less `steam` can be researched. `Glass` will be produced from smelting `sand`. Using both items `electron tubes` (very much from little ceramic and glass) can be produced and from that `green circuits`, those are needed to make flux? tech to progress towards the next age.
+Flux tech will be needed for the next age. Crushing stone results in `sand`. `Ceramic` can be produced with steam and stone. In the next age a recipe using `sand` and less `steam` can be researched. `Glass` will be produced from smelting `sand`. Using both items `electron tubes` (very much from little ceramic and glass) can be produced and from that `green circuits`, those are needed to make flux? tech to progress towards the next age. Nothing else uses `green circuits` in this age ofc, that wouldn't make sense.
 
 ```mermaid
   flowchart LR
