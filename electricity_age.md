@@ -111,7 +111,7 @@ Uranium can be drilled as the other ore veins, and needs to be purified using su
 flowchart TD
     A(Uranium Vein) --> |drilling| B(Uranium ore chunk) --o C{purification}
     D((Sulfuric acid)) --o C --> E(Uranium rocks) --o F{purification}
-    G((Hydrofluoric acid)) --o F --> H((Uranium Hexafluoride))
+    G((Hydrofluoric acid)) --o F --> H(Uranium Hexafluoride)
     F --> I(Sand)
     F --> J(Nuclear waste) -.-> N[Waste storage]
     H --o K{Centrifuging} --> L(U-235)
