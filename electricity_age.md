@@ -66,6 +66,10 @@ The vanilla train will be named diesel train and can get built at this point. It
 
 Acidic water will once again enable the growing of `energy crystals` in a kovarex style. However the first crystal won't be obtained by purification of ore but using `electric energy injection` on lithium with a small chance of resulting in a crystal. The crystals will follow pretty much the same upgrade path as in 248k and can be charged to produce the better `diesel fuels`. 
 
+# Electric Train 
+
+The electric energy injector can also `charge` batteries which can be used alongside `charged energy crystals` to power an electric train, as an more eco friendly alternative to the diesel train. Unique equipment for this train will also be available.
+
 #
 
 `Plastic bars` can be produced using stuff from the steam age and will be needed to create `tier 2 belts`.
