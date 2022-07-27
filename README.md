@@ -1,5 +1,6 @@
-# 248k-2
+# Exotic Industries
 Mod ideas and development progress on 248ks successor mod.
+With the new name of `Exotic Industries`.
 
 # Mod Page
 https://mods.factorio.com/mod/248k
